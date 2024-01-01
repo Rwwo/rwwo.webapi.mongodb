@@ -29,7 +29,7 @@ Conceitos Básicos do MongoDB
 > [!NOTE]
 > Projeto desenvolvido para fins de estudos.
 
-![Resultado API](images/Swagger.png)
+![Resultado API](./Images/Swagger.png)
 
 
-![MongoDB](images/MongoDB.png)
+![MongoDB](./Images/MongoDB.png)
